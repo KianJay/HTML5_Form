@@ -10,7 +10,7 @@ ESLint-airbnb & Prettier
 Screenshot
 -------------
 <div>
-<img width="200" src https://user-images.githubusercontent.com/54985943/104466180-41da2d80-55f8-11eb-829b-1b397e29e8ee.png />
+<img width="250" height="400" src https://user-images.githubusercontent.com/54985943/104466180-41da2d80-55f8-11eb-829b-1b397e29e8ee.png />
 </div>
 
 <h2>Tech/framework used</h2>
