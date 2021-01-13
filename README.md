@@ -1,5 +1,5 @@
-<h1>Project title</h1>
-Plain HTML5 Form Practice
+<h1>Plain HTML5 Form Practice</h1>
+
 
 <h2> Motivation</h2>
 the motivation behind the creation is to review the basic HTML5 
