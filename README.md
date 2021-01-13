@@ -19,6 +19,6 @@ Visual Studio Code
 <h2>Contribute</h2>
 Encore-playdata Cloud Architect class
 
-License
+<h2>License</h2>
 
 MIT © KianJay
