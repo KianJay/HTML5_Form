@@ -2,7 +2,7 @@
 
 
 <h2> Motivation</h2>
-the motivation behind the creation is to review the basic HTML5 
+The motivation behind the creation is to review the basic HTML5 
 
 <h2>Code style</h2>
 ESLint-airbnb & Prettier
