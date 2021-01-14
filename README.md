@@ -19,7 +19,7 @@ HTML5 Radio, Checkbox, Tags, and Table
 Visual Studio Code
 
 <h2>Contribute</h2>
-Encore-playdata Cloud Architect class
+Encore playdata Cloud Engineering class
 
 <h2>License</h2>
 MIT © KianJay
