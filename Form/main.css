@@ -1,0 +1,12 @@
+.userInfo {
+    color: green;
+}
+h2 {
+    color: blue;
+}
+select {
+    color: red;
+}
+input[type='submit']:hover {
+    background-color: darkgoldenrod;
+}
