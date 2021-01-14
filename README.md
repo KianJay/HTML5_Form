@@ -12,7 +12,7 @@ Screenshot
 <div>
 + HTML5
   
-> ![Screen Shot 2021-01-13 at 11 25 17 pm](https://user-images.githubusercontent.com/54985943/104467440-aba70700-55f9-11eb-9dc2-a9fcce9503ad.png)
+![Screen Shot 2021-01-13 at 11 25 17 pm](https://user-images.githubusercontent.com/54985943/104467440-aba70700-55f9-11eb-9dc2-a9fcce9503ad.png)
 
 
 + CSS
