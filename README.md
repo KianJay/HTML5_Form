@@ -10,12 +10,12 @@ ESLint-airbnb & Prettier
 Screenshot
 -------------
 <div>
-+ HTML5
+HTML5
   
 >![Screen Shot 2021-01-13 at 11 25 17 pm](https://user-images.githubusercontent.com/54985943/104467440-aba70700-55f9-11eb-9dc2-a9fcce9503ad.png)
 
 
-+ CSS
+- CSS
 
 ><img width="318" alt="Screen Shot 2021-01-14 at 8 14 28 pm" src="https://user-images.githubusercontent.com/54985943/104583935-20834b00-56a5-11eb-818f-5627fb33faaf.png">
 </div>
