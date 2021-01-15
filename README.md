@@ -19,6 +19,7 @@ HTML5
 
 ><img width="318" alt="Screen Shot 2021-01-14 at 8 14 28 pm" src="https://user-images.githubusercontent.com/54985943/104583935-20834b00-56a5-11eb-818f-5627fb33faaf.png">
 </div>
+
 <h2>Features </h2>
 HTML5 Radio, Checkbox, Tags, and Table
 CSS Button hover background color and font colors
