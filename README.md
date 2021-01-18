@@ -24,7 +24,7 @@ HTML5
 <h2>Features </h2>
 HTML5 Radio, Checkbox, Tags, and Table
 CSS Button hover background color and font colors
-AWS S3 Static WebSite Hosting
+AWS S3 Static WebSite Hosting /Asia Pacific (Seoul) ap-northeast-2 Region 
 <h2>Tech/framework used</h2>
 Visual Studio Code ,AWS S3
 
