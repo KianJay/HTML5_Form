@@ -2,6 +2,7 @@
 
 Deployed: http://kian.test1.net.s3-website.ap-northeast-2.amazonaws.com
 
+
 <h2> Motivation</h2>
 The motivation behind the creation is to review the basic HTML5 and CSS using AWS S3, Static Website Hosing
 
@@ -19,6 +20,10 @@ HTML5
 - CSS
 
 ><img width="318" alt="Screen Shot 2021-01-14 at 8 14 28 pm" src="https://user-images.githubusercontent.com/54985943/104583935-20834b00-56a5-11eb-818f-5627fb33faaf.png">
+
+- AWS S3
+>![Screen Shot 2021-01-18 at 10 42 23 pm](https://user-images.githubusercontent.com/54985943/104922825-8db51a00-59de-11eb-94a6-9a2393410ff6.png)
+
 </div>
 
 <h2>Features </h2>
