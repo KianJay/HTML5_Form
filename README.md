@@ -1,4 +1,4 @@
-<h1>HTML5 Form Practice with CSS</h1>
+<h1>HTML5 Form Practice with CSS, using AWS S3 Website hosting</h1>
 
 Deployed: http://kian.test1.net.s3-website.ap-northeast-2.amazonaws.com
 
