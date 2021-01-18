@@ -1,8 +1,9 @@
 <h1>HTML5 Form Practice with CSS</h1>
 
+Deployed: http://kian.test1.net.s3-website.ap-northeast-2.amazonaws.com
 
 <h2> Motivation</h2>
-The motivation behind the creation is to review the basic HTML5 and CSS
+The motivation behind the creation is to review the basic HTML5 and CSS using AWS S3, Static Website Hosing
 
 <h2>Code style</h2>
 ESLint-airbnb & Prettier
@@ -23,9 +24,9 @@ HTML5
 <h2>Features </h2>
 HTML5 Radio, Checkbox, Tags, and Table
 CSS Button hover background color and font colors
-
+AWS S3 Static WebSite Hosting
 <h2>Tech/framework used</h2>
-Visual Studio Code
+Visual Studio Code ,AWS S3
 
 <h2>Contribute</h2>
 Encore playdata Cloud Engineering
