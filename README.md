@@ -26,9 +26,3 @@ CSS Button hover background color and font colors
 AWS S3 Static WebSite Hosting /Asia Pacific (Seoul) ap-northeast-2 Region 
 <h2>Tech/framework used</h2>
 Visual Studio Code ,AWS S3
-
-<h2>Contribute</h2>
-Encore playdata Cloud Engineering
-
-<h2>License</h2>
-MIT © KianJay
